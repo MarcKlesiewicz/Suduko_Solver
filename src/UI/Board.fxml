@@ -87,7 +87,7 @@
                               <Font size="37.0" />
                            </font>
                         </TextField>
-                        <TextField alignment="CENTER" prefHeight="100.0" prefWidth="100.0">
+                        <TextField fx:id="smallBox1" alignment="CENTER" prefHeight="100.0" prefWidth="100.0">
                            <font>
                               <Font size="37.0" />
                            </font>
